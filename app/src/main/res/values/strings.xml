@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">pichanguea</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="dni">DNI</string>
+    <string name="numeroCel">N° celular</string>
+    <string name="fechNac">Fecha de nacimiento</string>
+    <string name="email">Correo Electrónico</string>
+    <string name="usuario">Usuario</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="ingresar">INGRESAR</string>
+    <string name="registrarme">REGISTRARME</string>
+    <string name="slogan">Reservar nunca fue tan facil, dile adios a las excusas con PICHANGUEA</string>
+    <string name="registroGoogle">Continuar con Google</string>
+    <string name="registroFacebook">Continuar con Facebook</string>
+</resources>
